@@ -1,1 +1,1 @@
-# CS4501
+# Algorithmic Economics
