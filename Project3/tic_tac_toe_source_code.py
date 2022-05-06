@@ -355,6 +355,6 @@ def play():
 
 
 if __name__ == '__main__':
-    train(int(1e5)) # training phase first
+    train(int(1e3)) # training phase first
     compete(int(1e3)) # then two AI complete against each other
     play() # Finally, you can try to play against an AI :-)
